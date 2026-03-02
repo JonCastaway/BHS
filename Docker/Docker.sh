@@ -187,7 +187,7 @@ function shutdown {
 trap shutdown SIGTERM SIGINT
 
 while true; do
-    ./blockheads_server171 --no-exit -o "$world_id" -p "$server_port" 2>&1 | tee -a bhs-server-log.txt
+    ./blockheads_server171 --no-exit -o "\$world_id" -p "\$server_port" 2>&1 | tee -a bhs-server-log.txt
     echo "Server restarted at \$(date)" | tee -a bhs-server-log.txt
     sleep 1
 done
