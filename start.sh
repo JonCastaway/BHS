@@ -83,7 +83,7 @@ declare -a PACKAGES_ARCH=(
     'libxml2'
     'libffi'
     'libnsl'
-    'zlib'
+    'zlib-ng-compat'
     'icu'
     'libdispatch'
 )
