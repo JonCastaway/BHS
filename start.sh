@@ -83,7 +83,7 @@ declare -a PACKAGES_ARCH=(
     'libxml2'
     'libffi'
     'libnsl'
-    'zlib-ng-compat'
+    'zlib'
     'icu'
     'libdispatch'
 )
@@ -115,7 +115,7 @@ install_packages_debian() {
 
 install_packages_arch() {
     echo "Installing packages for Arch Linux..."
-    $ROOT pacman -Sy --noconfirm --needed "${PACKAGES_ARCH[@]}" || exit 1
+    $ROOT pacman -Sy --needed "${PACKAGES_ARCH[@]}" || exit 1
 }
 
 install_packages() {
