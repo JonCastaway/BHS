@@ -1,4 +1,4 @@
-<a id="readme-top"></a>
+8<a id="readme-top"></a>
 <p align="center">
   <a href="https://theblockheads.net">
     <img alt="The Blockheads" src="https://github.com/user-attachments/assets/8f162932-0a4d-429d-9f3e-bd97d980e893">
@@ -49,9 +49,6 @@
 <p align="center">This repository contains the server files for running a Blockheads multiplayer server.</p>
 <div align="left"><b>Warning:</b></div>
 <div align="left">Running curl to bash scripts from the internet can be risky. It's always recommended to review the code before executing it to ensure it is safe and does not contain any malicious content.</div><p></p>
-
-**You can test our Blockheads Server by using:**
-`theblackswan.devon.social` port `15151`
 
 **Check out <a href="https://github.com/JonCastaway/BHS/wiki/Servers">
 <strong>other Blockhead Servers</strong></a>**
