@@ -82,8 +82,6 @@
 
 ## Getting Started
 
-![GettingStarted](https://github.com/user-attachments/assets/181856ca-8597-43d3-97c4-cf13a99c924d)
-
 ### 1. Installation | Linux
 
 Follow the instructions below to install and set up the Blockheads server on your system.
@@ -149,8 +147,6 @@ If version 1.76 does not launch, try an earlier version such as 1.75 or 1.74
 
 ### 5. Roadmap
 
-<img src="https://github.com/user-attachments/assets/dd266407-8234-461e-9a2f-e93b2fb82286" width="674" height="384">
-
 Exlore our advancement towards significant [milestones](<[url](https://github.com/Joncastaway/BHS/milestones)>), and delve into the [wiki](https://github.com/Joncastaway/BHS/wiki/Roadmap). Here's a general outline of some key features we're considering:
 
 - [ ] [Current Active Servers](https://github.com/JonCastaway/BHS/wiki/Active-Servers) (in test)
@@ -161,8 +157,6 @@ Exlore our advancement towards significant [milestones](<[url](https://github.co
 Additionally, review the [open issues](https://github.com/Joncastaway/BHS/issues) for a comprehensive list of suggested features (as well as known issues).
 
 ### 6. Contributing
-
-![contributing](https://github.com/user-attachments/assets/5059e3bc-ea8c-4965-96c4-c6c500d0ba06)
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
@@ -176,8 +170,6 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 This project is Licensed under the GPL-3.0 License. See the [License](https://github.com/JonCastaway/BHS/blob/main/LICENCE) file for details.
 
 ### 8. Contact
-
-![contact](https://github.com/user-attachments/assets/2b40e187-309b-4a58-be5f-fc71d045298a)
 
 For any questions or support, please reach out or open an issue on GitHub.
 
