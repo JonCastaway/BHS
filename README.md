@@ -43,18 +43,18 @@
 <details>
 <summary>📖 Table of Contents</summary>
 
-[✅ Requirements](#requirements)
-[⚡ Quick Start](#quick-start)
-[🍎 macOS Install](#macos-install)
-[📦 Original Binaries / Manual Install](#original-binaries--manual-install)
-[🤖 The Blockheads Android APK](#the-blockheads--android-apk)
-[🛠️ Server Management](#server-management)
-[🐳 Docker](#docker)
-[🗺️ Roadmap](#roadmap)
-[🤝 Contributing](#contributing)
-[📜 License](#license)
-[📬 Contact](#contact)
-[🙏 Acknowledgments](#acknowledgments)
+- [✅ Requirements](#requirements)
+- [⚡ Quick Start](#quick-start)
+- [🍎 macOS Install](#macos-install)
+- [📦 Original Binaries / Manual Install](#original-binaries--manual-install)
+- [🤖 The Blockheads Android APK](#the-blockheads--android-apk)
+- [🛠️ Server Management](#server-management)
+- [🐳 Docker](#docker)
+- [🗺️ Roadmap](#roadmap)
+- [🤝 Contributing](#contributing)
+- [📜 License](#license)
+- [📬 Contact](#contact)
+- [🙏 Acknowledgments](#acknowledgments)
 
 </details>
 
