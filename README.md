@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# ⛏️ The Blockheads Game Server
+# ⛏️ The Blockheads Game Server Script
 
-**A self-hosted multiplayer server for The Blockheads**
+**A script for the self-hosted multiplayer server for The Blockheads**
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -15,26 +15,22 @@
 
 <div align="center">
 
-| Platform | Badge |
-|---|---|
-| 🍎 macOS | [![macOS](https://img.shields.io/badge/macOS-999999.svg?logo=apple&logoColor=white)](https://www.apple.com/macos/) |
-| 🐧 Debian | [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white)](https://www.debian.org/) |
-| 🟠 Ubuntu | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)](https://ubuntu.com/) |
-| 🔵 Arch Linux | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)](https://archlinux.org/) |
-| 🟦 Pop!_OS | [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7.svg?logo=pop_os&logoColor=white)](https://pop.system76.com/) |
-| 🟩 Trisquel | [![Trisquel](https://img.shields.io/badge/Trisquel-23af34.svg?logo=trisquel&logoColor=white)](https://www.trisquel.info/) |
-| 🌿 Linux Mint | [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=linux-mint&logoColor=white)](https://www.linuxmint.com/) |
-| 🔷 Zorin OS | [![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3.svg?logo=zorin&logoColor=white)](https://zorin.com/) |
-| 🪶 elementary OS | [![elementary OS](https://img.shields.io/badge/elementary%20OS-64BAFF.svg?logo=elementary&logoColor=white)](https://elementary.io/) |
-| 🐉 Kali Linux | [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali-linux&logoColor=white)](https://www.kali.org/) |
-| 🛡️ Tails | [![Tails](https://img.shields.io/badge/Tails-563F8A.svg?logo=linux&logoColor=white)](https://tails.boum.org/) |
-| 🧰 MX Linux | [![MX Linux](https://img.shields.io/badge/MX%20Linux-1E7B6E.svg?logo=linux&logoColor=white)](https://mxlinux.org/) |
-| ⚙️ Devuan | [![Devuan](https://img.shields.io/badge/Devuan-648C8A.svg?logo=linux&logoColor=white)](https://www.devuan.org/) |
-| 🧪 BunsenLabs | [![BunsenLabs](https://img.shields.io/badge/BunsenLabs-254c59.svg?logo=linux&logoColor=white)](https://bunsenlabs.org/) |
+[![macOS](https://img.shields.io/badge/macOS-999999.svg?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Debian](https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white)](https://www.debian.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7.svg?logo=pop_os&logoColor=white)](https://pop.system76.com/)
+[![Trisquel](https://img.shields.io/badge/Trisquel-23af34.svg?logo=trisquel&logoColor=white)](https://www.trisquel.info/)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?logo=linux-mint&logoColor=white)](https://www.linuxmint.com/)
+[![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3.svg?logo=zorin&logoColor=white)](https://zorin.com/)
+[![elementary OS](https://img.shields.io/badge/elementary%20OS-64BAFF.svg?logo=elementary&logoColor=white)](https://elementary.io/)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Tails](https://img.shields.io/badge/Tails-563F8A.svg?logo=linux&logoColor=white)](https://tails.boum.org/)
+[![MX Linux](https://img.shields.io/badge/MX%20Linux-1E7B6E.svg?logo=linux&logoColor=white)](https://mxlinux.org/)
+[![Devuan](https://img.shields.io/badge/Devuan-648C8A.svg?logo=linux&logoColor=white)](https://www.devuan.org/)
+[![BunsenLabs](https://img.shields.io/badge/BunsenLabs-254c59.svg?logo=linux&logoColor=white)](https://bunsenlabs.org/)
 
 </div>
-
-This repository contains the server files needed to run a **Blockheads multiplayer server**.
 
 > [!WARNING]  
 > Running `curl | bash` scripts from the internet can be risky. Always review the script before executing it.
@@ -47,33 +43,24 @@ This repository contains the server files needed to run a **Blockheads multiplay
 <details>
 <summary>📖 Table of Contents</summary>
 
-1. [✅ Requirements](#requirements)
-2. [⚡ Quick Start](#quick-start)
-3. [🐧 Linux Install](#linux-install)
-4. [🍎 macOS Install](#macos-install)
-5. [📦 Original Binaries / Manual Install](#original-binaries--manual-install)
-6. [🤖 The Blockheads Android APK](#the-blockheads--android-apk)
-7. [🛠️ Server Management](#server-management)
-8. [🐳 Docker](#docker)
-9. [🗺️ Roadmap](#roadmap)
-10. [🤝 Contributing](#contributing)
-11. [📜 License](#license)
-12. [📬 Contact](#contact)
-13. [🙏 Acknowledgments](#acknowledgments)
+[✅ Requirements](#requirements)
+[⚡ Quick Start](#quick-start)
+[🍎 macOS Install](#macos-install)
+[📦 Original Binaries / Manual Install](#original-binaries--manual-install)
+[🤖 The Blockheads Android APK](#the-blockheads--android-apk)
+[🛠️ Server Management](#server-management)
+[🐳 Docker](#docker)
+[🗺️ Roadmap](#roadmap)
+[🤝 Contributing](#contributing)
+[📜 License](#license)
+[📬 Contact](#contact)
+[🙏 Acknowledgments](#acknowledgments)
 
 </details>
 
 ---
 
-# 🎮 The Blockheads Game Server for Linux and macOS
-
-## 🚀 Getting Started
-
-```text
-┌──────────────────────────────────────────┐
-│  ⛏️  Build. Explore. Host your world.   │
-└──────────────────────────────────────────┘
-```
+# 🚀 Getting Started
 
 <a id="requirements"></a>
 
@@ -114,44 +101,6 @@ sudo dnf install -y curl nano
 <a id="quick-start"></a>
 
 ## ⚡ Quick Start
-
-For experienced users, the shortest Linux setup is:
-
-```bash
-curl -sL [https://raw.githubusercontent.com/JonCastaway/BHS/main/start.sh](https://raw.githubusercontent.com/JonCastaway/BHS/main/start.sh) -o start.sh
-less start.sh
-bash start.sh
-```
-
-Create a server:
-
-```bash
-./blockheads_server171 -n MyFirstServer
-```
-
-Find your world ID:
-
-```bash
-./blockheads_server171 -l
-```
-
-Edit `run.sh`, replacing `WORLD_ID` and `PORT`:
-
-```bash
-nano run.sh
-```
-
-Start the server in the background:
-
-```bash
-nohup ./start.sh &>/dev/null &
-```
-
-For a fuller explanation, see [🐧 Linux Install](#linux-install).
-
-<a id="linux-install"></a>
-
-## 🐧 1. Installation | Linux
 
 Follow the instructions below to install and set up the Blockheads server on your system.
 
@@ -216,7 +165,7 @@ nohup ./start.sh &>/dev/null &
 
 <a id="macos-install"></a>
 
-## 🍎 2. Installation | macOS
+## 🍎 Installation | macOS
 
 Download the Blockheads Server App from the App Store:
 
@@ -224,7 +173,7 @@ Download the Blockheads Server App from the App Store:
 
 <a id="original-binaries--manual-install"></a>
 
-## 📦 3. Original Server Binaries | Manual Install
+## 📦 Original Server Binaries | Manual Install
 
 You can download the original server binaries from the links below:
 
@@ -241,7 +190,7 @@ Then follow the Linux configuration instructions above.
 
 <a id="the-blockheads--android-apk"></a>
 
-## 🤖 4. The Blockheads | Android APK
+## 🤖 The Blockheads | Android APK
 
 If version 1.76 does not launch, try an earlier version such as 1.75 or 1.74.
 
@@ -328,7 +277,7 @@ cp -a /path/to/blockheads-server /path/to/backups/blockheads-server-$(date +%Y-%
 
 <a id="docker"></a>
 
-## 🐳 6. Docker
+## 🐳 Docker
 
 Docker support is currently **in testing**.
 
@@ -342,7 +291,7 @@ Once available, this section will include:
 
 <a id="roadmap"></a>
 
-## 🗺️ 7. Roadmap
+## 🗺️ Roadmap
 
 ```text
         🚧 ROADMAP 🚧
@@ -365,7 +314,7 @@ Review the [open issues](https://github.com/JonCastaway/BHS/issues) for suggeste
 
 <a id="contributing"></a>
 
-## 🤝 8. Contributing
+## 🤝 Contributing
 
 ```text
    ╭──────────────────────────────╮
@@ -384,7 +333,7 @@ Contributions are welcome. Feel free to fork this repository and submit pull req
 
 <a id="license"></a>
 
-## 📜 9. License
+## 📜 License
 
 This project is licensed under the **GPL-3.0 License**.
 
@@ -392,7 +341,7 @@ See the [License](LICENCE) file for details.
 
 <a id="contact"></a>
 
-## 📬 10. Contact
+## 📬 Contact
 
 ```text
   📮 Questions?  🐛 Problems?  💡 Ideas?
@@ -403,7 +352,7 @@ For questions or support, please open an issue on GitHub.
 
 <a id="acknowledgments"></a>
 
-## 🙏 11. Acknowledgments
+## 🙏 Acknowledgments
 
 Projects we are inspired by and have obtained valuable information from:
 
